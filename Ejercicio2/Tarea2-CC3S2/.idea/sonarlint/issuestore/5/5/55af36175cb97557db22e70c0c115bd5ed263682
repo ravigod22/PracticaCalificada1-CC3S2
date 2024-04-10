@@ -1,0 +1,13 @@
+
+–	java:S116	"TRename this field "cache_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ºßˆ8Âæ–Ãì1J$db6cccdc-7a90-45e4-ab4f-03f375e3269e
+˜	java:S116
+"VRename this field "cache_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÄýÐ8Âæ–Ãì1J$06493a50-8b42-4c6d-8f93-d7003f0a35a9
+˜	java:S116"VRename this field "cache_times" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÁ»„8Âæ–Ãì1J$9d7bc406-921e-4c79-b48c-d3986336bc17
+l
+java:S1172""*Remove this unused method parameter "key".(¶üÊd8Éæ–Ãì1J$22ce86a1-d53f-42b1-9ebe-884966bccfe9
+l
+java:S1068")Remove this unused "times" private field.(ßì·’8Êæ–Ãì1J$0426a5c4-0f00-41f7-83c9-d837ae43e555
+o
+java:S1068"'Remove this unused "key" private field.(žþÅ¨ùÿÿÿÿ8Êæ–Ãì1J$cdbadb64-ae64-4ce7-a822-ad690a69a1f4
+l
+java:S1068")Remove this unused "value" private field.(ŸÑÆ÷8Êæ–Ãì1J$2061e019-58b8-4b83-85bd-31b918092aad
