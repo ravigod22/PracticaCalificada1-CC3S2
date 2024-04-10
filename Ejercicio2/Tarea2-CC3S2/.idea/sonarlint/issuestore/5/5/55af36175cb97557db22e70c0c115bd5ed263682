@@ -1,13 +1,7 @@
 
-–	java:S116	"TRename this field "cache_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ºßˆ8Âæ–Ãì1J$db6cccdc-7a90-45e4-ab4f-03f375e3269e
+–	java:S116	"TRename this field "cache_key" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ºßˆ8½âÛÃì1J$4bf3fb61-0f3a-469e-99cc-16ea0a59ca8e
 ˜	java:S116
-"VRename this field "cache_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÄıĞ8Âæ–Ãì1J$06493a50-8b42-4c6d-8f93-d7003f0a35a9
-˜	java:S116"VRename this field "cache_times" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÁ»„8Âæ–Ãì1J$9d7bc406-921e-4c79-b48c-d3986336bc17
-l
-java:S1172""*Remove this unused method parameter "key".(¶üÊd8Éæ–Ãì1J$22ce86a1-d53f-42b1-9ebe-884966bccfe9
-l
-java:S1068")Remove this unused "times" private field.(ßì·’8Êæ–Ãì1J$0426a5c4-0f00-41f7-83c9-d837ae43e555
-o
-java:S1068"'Remove this unused "key" private field.(şÅ¨ùÿÿÿÿ8Êæ–Ãì1J$cdbadb64-ae64-4ce7-a822-ad690a69a1f4
-l
-java:S1068")Remove this unused "value" private field.(ŸÑÆ÷8Êæ–Ãì1J$2061e019-58b8-4b83-85bd-31b918092aad
+"VRename this field "cache_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÄıĞ8¾âÛÃì1J$689be2f5-f91f-4896-be1b-0470cde34699
+˜	java:S116"VRename this field "cache_times" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÁ»„8¾âÛÃì1J$c6a0e777-9453-4ddb-87c8-b33f78d135e4
+w
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8‰»ïÃì1J$0ce158b4-2349-44b9-90f5-0aa78b11e5ed
